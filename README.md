@@ -41,8 +41,6 @@ You can modify:
 
 Simply open the `index.html` file in a modern web browser. Move your mouse to rotate the 3D view.
 
-# 3D House Project
-
 ## Project Conversion Notes
 
 I've converted the original project files to standard web formats:
