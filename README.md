@@ -80,4 +80,4 @@ All original functionality and styling has been preserved in the conversion proc
 
 ## Credits
 
-This project appears to be inspired by or adapted from Ricardo Oliva Alonso's work on CodePen (references to GitHub links in the CSS suggest this).
+This project appears to be inspired by or adapted from Ricardo Oliva Alonso's work on CodePen.
